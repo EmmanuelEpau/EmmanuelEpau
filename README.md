@@ -2,7 +2,7 @@
 
 # Emmanuel Epau
 
-### Marketing Analyst · Full-Stack Developer · Visual Storyteller
+### Business & Marketing Analyst · Visual Storyteller · Builder
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-emmanuelepau.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.emmanuelepau.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-emmanuelepau-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuelepau/)
@@ -13,32 +13,32 @@
 
 ---
 
-**10+ years of leadership** across marketing, analytics, and digital media — now building technology that brings people together.
+**10+ years of leadership** across marketing, analytics, and digital media — driven by a deep curiosity for **people, creativity, and what makes them tick**.
 
-I sit at the intersection of **data, storytelling, and code**. I analyze markets, build products, and create visuals that move people. Currently developing faith-based technology for [Holy Cross Family Ministries](https://www.hcfm.org/) while pursuing my Master's at Notre Dame.
+I'm a business analyst who thinks like a marketer and creates like a storyteller. I dig into consumer behavior, turn data into strategy, and build brands that actually connect with people. When I see a gap between what people need and what exists, I build the solution — whether that's a campaign, a data model, or an app.
 
 ---
 
-### 🚀 What I'm Building
+### 🔍 What I Do Best
 
 <table>
 <tr>
 <td width="50%">
 
-**[PRAYED](https://emmanuelepau.github.io/PRAYED-Live/)** — Catholic Prayer & Community App
-- Real-time prayer circles with group chat
-- Family management & shared intentions
-- Event scheduling with RSVP
-- Built with JavaScript, Firebase, and deployed on GitHub Pages
+**Marketing Analytics & Consumer Insights**
+- Market research & competitive analysis
+- Consumer behavior & audience segmentation
+- SEO strategy & digital performance optimization
+- Social media analytics & campaign ROI
 
 </td>
 <td width="50%">
 
-**Marketing & Analytics Work**
-- Consumer insights & SEO strategy
-- Brand storytelling & digital transformation
-- Social media analytics & campaign optimization
-- Photography & videography for corporate branding
+**Brand Strategy & Creative Media**
+- Brand storytelling & narrative development
+- Content strategy across digital platforms
+- Photography & videography for brands and events
+- Leadership consulting & team development
 
 </td>
 </tr>
@@ -46,13 +46,25 @@ I sit at the intersection of **data, storytelling, and code**. I analyze markets
 
 ---
 
-### 🛠 Tech & Tools
+### 🚀 What I'm Building
 
-**Development**&ensp; `JavaScript` `HTML/CSS` `Python` `Firebase` `Firestore` `Git`
+**[PRAYED](https://emmanuelepau.github.io/PRAYED-Live/)** — A Catholic prayer and community app for [Holy Cross Family Ministries](https://www.hcfm.org/)
 
-**Analytics**&ensp; `R` `SQL` `Tableau` `Excel` `Statistical Modeling`
+I saw families who wanted to pray together but didn't have a digital space to do it. So I built one — real-time prayer circles, family management, event RSVPs, and community chat. JavaScript, Firebase, GitHub Pages. From idea to deployed product.
 
-**Creative**&ensp; `Photography` `Videography` `Brand Design` `Content Strategy`
+> *This is what happens when a business analyst also knows how to code.*
+
+---
+
+### 🛠 Skills & Tools
+
+**Analytics & Strategy**&ensp; `Market Research` `Consumer Insights` `SEO` `A/B Testing` `Campaign Analytics` `Statistical Modeling`
+
+**Platforms & Tools**&ensp; `Tableau` `SQL` `R` `Python` `Excel` `Google Analytics`
+
+**Creative & Media**&ensp; `Photography` `Videography` `Brand Design` `Content Strategy` `Social Media`
+
+**Technical**&ensp; `JavaScript` `HTML/CSS` `Firebase` `Git` `Data Visualization`
 
 ---
 
@@ -64,11 +76,11 @@ I sit at the intersection of **data, storytelling, and code**. I analyze markets
 
 ---
 
-### 🌍 Background
+### 🌍 My Story
 
-From **Kampala, Uganda** to **South Bend, Indiana** — I bring a global perspective to everything I build. My work spans organizations including Holy Cross Family Ministries, Stanbic Bank Uganda, Kei Phone Global, and the Holy Cross Institute.
+From **Kampala, Uganda** to **North Easton, Massachusetts** — I bring a global lens to every problem I solve. I've worked with organizations like Holy Cross Family Ministries, Stanbic Bank Uganda, Kei Phone Global, and the Holy Cross Institute.
 
-I believe the best products come from understanding people first and technology second.
+I believe the best insights come from understanding people first — the data just tells you where to look.
 
 ---
 
