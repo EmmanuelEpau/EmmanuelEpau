@@ -86,6 +86,6 @@ I believe the best insights come from understanding people first — the data ju
 
 <div align="center">
 
-📫 **emmanuelepau77@gmail.com** · 🌐 **[emmanuelepau.com](https://www.emmanuelepau.com/)**
+🌐 **[emmanuelepau.com](https://www.emmanuelepau.com/)**
 
 </div>
